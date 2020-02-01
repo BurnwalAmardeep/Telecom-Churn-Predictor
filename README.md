@@ -58,12 +58,12 @@ It will be used to identify important variables that are strong predictors of ch
 
 # Solution Approach
 Here we have tried multiple models with the required Hyperparameter tunning. We have tried below models with GridSearchCV pipeline and Hyperparameter tunning
-**Logistic Regression**
-**Random Forest Classifier**
-**Random Forest Classifier with Principal Component Analysis**
-**Ridge Classifier with Principal Component Analysis**
-**SGD Classifier with Principal Component Analysis**
-**Logistic Regression with Principal Component Analysis**
+#### Logistic Regression  
+#### Random Forest Classifier
+#### Random Forest Classifier with Principal Component Analysis
+#### Ridge Classifier with Principal Component Analysis
+#### SGD Classifier with Principal Component Analysis
+#### Logistic Regression with Principal Component Analysis
 
 ***We have found that Logistic Regression(with Hyperparameter C = 1e-6) with Principal Component Analysis(with 23 components) as the best model based on the Recall Score***
 
