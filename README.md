@@ -68,10 +68,10 @@ Here we have tried multiple models with the required Hyperparameter tunning. We 
 ***We have found that Logistic Regression(with Hyperparameter C = 1e-6) with Principal Component Analysis(with 23 components) as the best model based on the Recall Score***
 
 We have also found that the most important features as strong predictors are below derived features:
-**1. total_ic_trend_678**
-**2. total_og_trend_678**
-**3. total_rech_amt_trend_678**
-**4. total_rech_data_trend_678**
-**5. total_rech_num_trend_678**
+#### 1. total_ic_trend_678
+#### 2. total_og_trend_678
+#### 3. total_rech_amt_trend_678
+#### 4. total_rech_data_trend_678
+#### 5. total_rech_num_trend_678
 
 ***We analyzed that if a customer has a decreasing trend in any of the above mentioned five features then it is an clear and strong indicator that customer might Churn. So decreasing trend in more of these features, would mean higher chance of customer being Churned-out.***
