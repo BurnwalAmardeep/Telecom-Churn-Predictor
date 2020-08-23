@@ -75,3 +75,5 @@ We have also found that the most important features as strong predictors are bel
 #### 5. total_rech_num_trend_678
 
 ***We analyzed that if a customer has a decreasing trend in any of the above mentioned five features then it is an clear and strong indicator that customer might Churn. So decreasing trend in more of these features, would mean higher chance of customer being Churned-out.***
+
+**Solution File:** [TelecomChurn_CaseStudy_final.ipynb](https://github.com/BurnwalAmardeep/Telecom-Churn-Predictor/blob/master/TelecomChurn_CaseStudy_final.ipynb)
